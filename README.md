@@ -4,9 +4,9 @@ This repository is used to demonstrate a basic editing worklfow between a local 
 # Header 1 
 This is body of text under the first **header**
 ## Header 2 
-This is body of text under the second *header* 
+This is body of text under the second *header*
 ### Header 3 
-This is a life 
+This is a list
 * item 1 
 * item 2 
 * item 3
