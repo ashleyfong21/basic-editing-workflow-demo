@@ -27,4 +27,3 @@ if name == "Eric":
   print("****")
 ```
 
-
